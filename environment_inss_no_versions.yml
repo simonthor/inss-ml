@@ -1,0 +1,10 @@
+name: inss
+channels:
+  - defaults
+dependencies:
+  - h5py
+  - ipykernel
+  - matplotlib
+  - python
+  - awkward
+prefix: /home/simon/miniconda3/envs/inss
